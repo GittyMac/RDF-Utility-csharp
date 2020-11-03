@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDFUtilCSharp", "RDFUtilCSharp\RDFUtilCSharp.csproj", "{D1DC4755-0B47-414E-8C02-D9626C1A1C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1DC4755-0B47-414E-8C02-D9626C1A1C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DC4755-0B47-414E-8C02-D9626C1A1C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DC4755-0B47-414E-8C02-D9626C1A1C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DC4755-0B47-414E-8C02-D9626C1A1C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A43348-9210-48FD-95E4-03F54E6704A5}
+	EndGlobalSection
+EndGlobal
